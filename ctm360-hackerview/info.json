@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "label": "CTM360 HackerView",
   "description": "HackerView is CTM360\u2019s External Attack Surface Management platform, offering automated asset discovery, issue identification, security ratings, and third-party risk management. This collector lets you pull the issues and assets found on attack surface.",
-  "publisher": "Fortinet",
+  "publisher": "Fortinet SE",
   "icon_small_name": "small.png",
   "icon_large_name": "large.png",
   "category": "Threat Intelligence",

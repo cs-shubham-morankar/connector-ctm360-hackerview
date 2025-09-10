@@ -6,7 +6,7 @@ HackerView is CTM360’s External Attack Surface Management platform, offering a
 
 Connector Version: 1.0.0
 
-Authored By: Fortinet
+Publisher: Fortinet SE
 
 Certified: No
 
